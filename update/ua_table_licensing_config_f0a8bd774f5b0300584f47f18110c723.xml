@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-03 15:28:03</sys_created_on>
-        <sys_id>28d0f57f4f1b0300584f47f18110c751</sys_id>
+        <sys_id>f0a8bd774f5b0300584f47f18110c723</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_18287_monali_table</sys_name>
         <sys_package display_value="Monali" source="x_18287_monali">54d0f5fb4f1b0300584f47f18110c700</sys_package>
         <sys_policy/>
         <sys_scope display_value="Monali">54d0f5fb4f1b0300584f47f18110c700</sys_scope>
-        <sys_update_name>ua_table_licensing_config_28d0f57f4f1b0300584f47f18110c751</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_f0a8bd774f5b0300584f47f18110c723</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-01-03 15:28:03</sys_updated_on>
     </ua_table_licensing_config>
