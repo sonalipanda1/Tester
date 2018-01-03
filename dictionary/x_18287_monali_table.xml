@@ -2,5 +2,6 @@
 <database>
     <element label="Monali Table" max_length="40" name="x_18287_monali_table" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Test" max_length="40" name="test" type="string"/>
     </element>
 </database>
